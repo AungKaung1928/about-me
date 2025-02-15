@@ -1,49 +1,46 @@
-Here's a sample GitHub README and profile for you:
+# Hi there, I'm Aung! 👋
 
----
+🚗 **Current Role:** Product Development Engineer at Adient Japan  
+🛠 **Skills:** Mechanical Design, Manufacturing, Robotics Engineering, Python, Git, ROS2  
+🎯 **Goal:** Become a Robotics Software Engineer in 2026
 
-**GitHub Profile README**
+### 🚀 About Me
+I am a passionate **Product Development Engineer** with experience in the **automobile industry**, specializing in **mechanical design** and **manufacturing**. Currently, I am transitioning into **Robotics Engineering**, where I am focused on learning **ROS2**, **Python**, and **Git** to land an entry-level robotic software engineer role in 2026.
 
-```markdown
-# Aung Kaung Myat - Aspiring Robotics Software Engineer
+My ambition is to apply my engineering background and mechanical expertise to robotics and automation. I'm constantly learning and challenging myself to move faster towards my goal of becoming a robotics engineer. 
 
-Hi there! I'm **Aung Kaung Myat** (アウンカウンミャット), a Product Development Engineer in the automotive industry with a strong background in manufacturing and mechanical design. My goal is to transition into the field of robotics and land an entry-level **Robotics Software Engineer** position by 2026.
+🔧 I believe in continuous improvement, and my journey is a blend of technical development and problem-solving. 
 
-## 🚀 My Journey
-
-Currently, I am learning:
-- **ROS2** (Robot Operating System)
-- **Python**
-- **Git**
-- **Robotic Engineering Concepts**
-
-With a background in **Product Development** and **Mechanical Design**, I bring a solid understanding of engineering principles, manufacturing processes, and problem-solving techniques to the robotics field. I’m learning as fast as I can to achieve my dream job.
-
-## 💻 Skills & Technologies
-- **ROS2** ![ROS2 logo](https://upload.wikimedia.org/wikipedia/commons/2/2e/ROS_Logo.svg)
+### 📚 Learning Journey
+- **ROS2** 🦾
 - **Python** 🐍
-- **Git** ![Git logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Octicons-mark-github.svg)
-- **Mechanical Design**
-- **Product Development**
+- **Git** 🐙
+- **Robotics Engineering Concepts**
 
-## 📚 My Goals
-- Continue learning ROS2 and Python
-- Master Git for version control and collaboration
-- Build projects and contribute to open-source robotics initiatives
-- Land my dream job as a **Robotics Software Engineer** in 2026
+### 🌍 Certifications
+- **JLPT N1** ✅
+- **TOEIC 830** ✅
 
-## 🔗 Let's Connect
-- **LinkedIn**: [Aung Kaung Myat](https://www.linkedin.com/in/aung-kaung-myat/)
-- **GitHub**: [Aung Kaung Myat GitHub](https://github.com/your-username)
+### 🛠 Current Projects
+- Working on **ROS2-based robotic applications** to gain hands-on experience
+- Building projects related to **mechanical design** and **robotics** integration
 
-Feel free to browse through my repositories and follow my journey as I work towards becoming a robotics engineer!
+### 📈 Goals
+- Transition to a **Robotics Software Engineer** role by 2026
+- Master **ROS2**, **Python**, and **robotics** concepts
+- Contribute to **open-source robotics projects** on GitHub
 
----
-
-**GitHub Profile Bio:**
-
-👋 Hi! I'm Aung Kaung Myat. A Product Development Engineer in the automotive industry working towards becoming a **Robotics Software Engineer** by 2026. I’m learning **ROS2**, **Python**, and **Git** while focusing on robotic engineering. Let’s connect!
+### 🤝 Let's Connect!
+- **LinkedIn:** [Aung Kaung Myat](https://www.linkedin.com/in/aung-kaung-myat)
+- **GitHub:** [@aungkaungmyat](https://github.com/aungkaungmyat)
 
 ---
 
-Feel free to customize the links and any specific sections to fit your actual profile or projects!
+💡 _"Learning is not the product of teaching. Learning is the product of the activity of learners."_
+
+---
+
+### ⚙️ Tools & Technologies
+- ![ROS2](https://img.shields.io/badge/ROS2-000000?style=flat&logo=ros&logoColor=white)  
+- ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)  
+- ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
