@@ -5,7 +5,7 @@
 🎯 **Goal:** Become a Robotics Software Engineer in 2026
 
 ### 🚀 About Me
-I am a passionate **Product Development Engineer** with experience in the **automobile industry**, specializing in **mechanical design** and **manufacturing**. Currently, I am transitioning into **Robotics Engineering**, where I am focused on learning **ROS2**, **Python**, and **Git** to land an entry-level robotic software engineer role in 2026.
+I am a passionate **Product Development Engineer** with experience in the **automobile industry**, specializing in **mechanical design** and **manufacturing**. Currently, I am transitioning into **Robotics Engineering**, where I am focused on learning **ROS2**, **Python**, **C++** and **Git** to land an entry-level robotic software engineer role in 2026.
 
 My ambition is to apply my engineering background and mechanical expertise to robotics and automation. I'm constantly learning and challenging myself to move faster towards my goal of becoming a robotics engineer. 
 
@@ -17,30 +17,21 @@ My ambition is to apply my engineering background and mechanical expertise to ro
 - **Git** 🐙
 - **Robotics Engineering Concepts**
 
-### 🌍 Certifications
+### 🌍 Language Certifications
 - **JLPT N1** ✅
 - **TOEIC 830** ✅
 
-### 🛠 Current Projects
-- Working on **ROS2-based robotic applications** to gain hands-on experience
-- Building projects related to **mechanical design** and **robotics** integration
-
 ### 📈 Goals
 - Transition to a **Robotics Software Engineer** role by 2026
-- Master **ROS2**, **Python**, and **robotics** concepts
+- Master **ROS2**, **Python**, **C++** and **robotics** concepts
 - Contribute to **open-source robotics projects** on GitHub
 
 ### 🤝 Let's Connect!
 - **LinkedIn:** [Aung Kaung Myat](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)
-- **GitHub:** [@aungkaungmyat](https://github.com/AungKaung1928)
+- **GitHub:** [AungKaung1928](https://github.com/AungKaung1928)
 
 ---
 
-💡 _"Learning is not the product of teaching. Learning is the product of the activity of learners."_
+💡 "Let’s learn and create robots, one step at a time!"
 
 ---
-
-### ⚙️ Tools & Technologies
-- ![ROS2](https://img.shields.io/badge/ROS2-000000?style=flat&logo=ros&logoColor=white)  
-- ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)  
-- ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white)
