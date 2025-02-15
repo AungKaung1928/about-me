@@ -31,8 +31,8 @@ My ambition is to apply my engineering background and mechanical expertise to ro
 - Contribute to **open-source robotics projects** on GitHub
 
 ### 🤝 Let's Connect!
-- **LinkedIn:** [Aung Kaung Myat](https://www.linkedin.com/in/aung-kaung-myat)
-- **GitHub:** [@aungkaungmyat](https://github.com/aungkaungmyat)
+- **LinkedIn:** [Aung Kaung Myat](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)
+- **GitHub:** [@aungkaungmyat](https://github.com/AungKaung1928)
 
 ---
 
