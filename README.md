@@ -1,43 +1,9 @@
-Hey there! I'm Aung Kaung Myat 👋
+<h1 align="center">Hi 👋, I'm Aung Kaung Myat</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-🚀 Aspiring Robotic Software Engineer | 🏎 Product Development Engineer (Automobile Industry)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-🚀 A Little About Me
-
-Hey! I'm Aung, and I'm on a mission to transition from the automotive industry into the world of robotics. Currently, I work as a Product Development Engineer, but my heart is set on robotic engineering. I have experience in manufacturing and mechanical design, and now I’m diving deep into ROS2, Python, Git, and C++ to make my dream a reality. The goal? Become a Robotic Software Engineer by 2026!
-
-Learning at full speed! ⚡
-
-📚 What I'm Learning
-
- ROS2 – Because robots are awesome! 🤖
-
- Python – Writing code to make things move!
-
- Git – Keeping track of all my crazy experiments. 😆
-
- C++ – Not an expert yet, but improving every day! 💪
-
-🛠️ Skills & Tools
-
-🚗 Automotive Product Development (Yep, I know cars!)
-
-🏭 Manufacturing & Mechanical Design (Worked with real-world machines!)
-
-🤖 Robotics & Automation (Currently in learning mode... but super excited!)
-
-💡 Problem-Solving & Continuous Learning (Every challenge is an opportunity!)
-
-🎯 My Goals
-
-✅ Get solid with ROS2, Python, Git, and C++ by 2025.
-✅ Keep improving my skills through hands-on projects and learning.
-✅ Land an entry-level Robotic Software Engineer job by 2026! 🎯
-
-📫 Connect With Me
-
-GitHub: github.com/aungkaungmyat
-
-LinkedIn: linkedin.com/in/aungkaungmyat
-
-Let’s build cool robots together! 🤖🔥
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
