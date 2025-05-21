@@ -2,7 +2,7 @@
 
 🚗 **Current Role:** Product Development Engineer at Adient Japan  
 🛠 **Skills:** Mechanical Design, Manufacturing, Robotics Engineering, Python, Git, ROS2  
-🎯 **Goal:** Become a Robotics Software Engineer in 2026
+🎯 **Goal:** Become a Robotics Software Engineer in future
 
 ### 🚀 About Me
 I am a passionate **Product Development Engineer** with experience in the **automobile industry**, specializing in **mechanical design** and **manufacturing**. Currently, I am transitioning into **Robotics Engineering**, where I am focused on learning **ROS2**, **Python**, **C++** and **Git** to land an entry-level robotic software engineer role in 2026.
