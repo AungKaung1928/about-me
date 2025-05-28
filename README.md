@@ -13,6 +13,7 @@ My ambition is to apply my engineering background and mechanical expertise to ro
 
 ### 📚 Learning Journey
 - **ROS2** 🦾
+- **C++** 💻
 - **Python** 🐍
 - **Git** 🐙
 - **Robotics Engineering Concepts**
