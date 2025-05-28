@@ -16,7 +16,7 @@ My ambition is to apply my engineering background and mechanical expertise to ro
 - **C++** 💻
 - **Python** 🐍
 - **Git** 🐙
-- **Robotics Engineering Concepts**
+- **Robotics Engineering Concepts** 🤖
 
 ### 🌍 Language Certifications
 - **JLPT N1** ✅
