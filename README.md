@@ -1,8 +1,8 @@
-# Hi there, I'm Aung! 👋
+# Hi guys, I'm Aung! 👋
 
 🚗 **Current Role:** Product Development Engineer at Adient Japan  
 🛠 **Skills:** Mechanical Design, Product Development, Robotics Engineering, Python, C++, Linux, ROS2, Git
-🎯 **Goal:** Become a Robotics Software Engineer in future
+🎯 **Goal:** Become a Robotics Software Engineer in near future
 
 ### 🚀 About Me
 I am a passionate **Product Development Engineer** with experience in the **automobile industry**, specializing in **mechanical design** and **product development**. Currently, I am transitioning into **Robotics Engineering**, where I am focused on learning **ROS2**, **Python**, **C++** and **Linux** to land an entry-level robotic software engineer role in future.
