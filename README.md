@@ -1,4 +1,4 @@
-# Hi guys, I'm Aung! 👋
+# Hi guys, I'm Aung!👋
 
 🚗 **Current Role:** Product Development Engineer at Adient Japan  
 🛠 **Skills:** Mechanical Design, Product Development, Robotics Engineering, Python, C++, Linux, ROS2, Git
