@@ -67,5 +67,3 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungKaung1928)
 
 ---
-
-*"Engineering intelligent solutions for tomorrow's autonomous world"* 🚀
