@@ -1,13 +1,10 @@
 # 👋 Hello, I'm Aung Kaung Myat!
 
-## 🔧➡️🤖 Mechanical Engineer Transitioning to Robotics Software
+## 🤖 Mechanical Engineer & Robotics Enthusiast
 
-Mechanical Design Engineer with a passion for autonomous systems and mobile robotics. Currently transitioning into robotics software development, combining my hardware understanding with growing programming expertise to build the future of intelligent machines.
+Passionate about building intelligent autonomous systems and mobile robotics solutions. Combining mechanical design expertise with software development to create next-generation robotic applications.
 
-🎓 **Background:** Mechanical Design Engineering  
-🎯 **Goal:** Robotics Software Engineer  
-🌱 **Currently:** Building software skills while leveraging my mechanical engineering foundation  
-🤖 **Focus Areas:** Mobile Robotics & Next-Gen Autonomous Systems
+![Profile Views](https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square)
 
 ---
 
@@ -20,7 +17,8 @@ Mechanical Design Engineer with a passion for autonomous systems and mobile robo
 
 **Robotics & Systems:**
 ```
-🤖 ROS2  |  📍 SLAM  |  🐧 Linux  |  🔧 Git
+🤖 ROS2  |  📍 SLAM  |  🎯 MoveIt  |  👁️ OpenCV
+📊 RViz  |  🌐 Gazebo  |  🐧 Linux  |  🔧 Git
 ```
 
 **Engineering Foundation:**
@@ -30,28 +28,19 @@ Mechanical Design Engineer with a passion for autonomous systems and mobile robo
 
 ---
 
-## 🚀 Areas of Interest & Future Vision
+## 🚀 Focus Areas
 
 **Mobile Robotics:**
-- Autonomous Mobile Robots (AMRs) and mobile cobots for next-gen manufacturing
-- Advanced AI-driven navigation systems with improved sensors and cloud connectivity
-- Dynamic path planning for complex environments
+- Autonomous navigation and SLAM algorithms
+- Mobile robot simulation and control
+- Computer vision applications
+- Motion planning and manipulation
 
-**Futuristic Robotics Fields:**
-- Robotics Programming for advanced autonomous task execution
-- AI-enhanced robotics with machine learning and advanced control technologies
-- Human-robot collaboration systems
-- Space exploration robotics and extreme environment applications
-- Swarm robotics and distributed autonomous systems
-
----
-
-## 🎯 What I'm Building
-
-- **Mobile Robot Navigation** - Implementing SLAM algorithms for autonomous navigation
-- **ROS2 Applications** - Developing modular robotics software architecture
-- **Algorithm Implementation** - Converting mechanical system knowledge into intelligent software solutions  
-- **Open Source Projects** - Contributing to the robotics community while building my portfolio
+**Future Vision:**
+- Space exploration robotics
+- Swarm robotics systems
+- Human-robot collaboration
+- AI-enhanced autonomous systems
 
 ---
 
@@ -63,33 +52,12 @@ Mechanical Design Engineer with a passion for autonomous systems and mobile robo
 
 ---
 
-## 🎯 Learning Journey
+## 🎯 Current Projects
 
-```python
-class CareerTransition:
-    def __init__(self):
-        self.background = "Mechanical Design Engineering"
-        self.current_skills = ["Python", "C++", "ROS2", "SLAM", "Linux", "Git"]
-        self.interests = ["Mobile Robotics", "Autonomous Navigation", "AI-Robotics"]
-        self.future_focus = ["Swarm Robotics", "Space Robotics", "Human-Robot Collaboration"]
-        self.target_role = "Robotics Software Engineer"
-    
-    def unique_value(self):
-        return "Hardware intuition + Software innovation = Next-gen robotics solutions"
-    
-    def vision_2030(self):
-        return "Building intelligent mobile robots that reshape how we interact with technology"
-```
-
----
-
-## 🌟 Why This Transition?
-
-My mechanical engineering background provides a unique advantage in robotics software:
-- **Systems Thinking** - Deep understanding of how software integrates with physical hardware
-- **Real-World Constraints** - Knowing the practical limitations that software must work within
-- **Problem Solving** - Approaching complex challenges from both mechanical and software perspectives
-- **Future Vision** - Contributing to the perfect balance of advanced technology, safety, and practical applications
+- **Mobile Robot Navigation** - SLAM-based autonomous systems
+- **ROS2 Applications** - Modular robotics software architecture
+- **Computer Vision** - OpenCV integration for robotic perception
+- **Simulation Environments** - Gazebo worlds for robot testing
 
 ---
 
@@ -100,12 +68,4 @@ My mechanical engineering background provides a unique advantage in robotics sof
 
 ---
 
-## 💭 Current Mission
-
-**Building tomorrow's robotics solutions today:**
-- Contributing to the rapidly growing mobile robotics market
-- Developing SLAM-based navigation systems
-- Creating robust ROS2 applications
-- Bridging mechanical design with intelligent software
-
-*"From mechanical precision to autonomous intelligence - engineering the future of robotics"* 🚀
+*"Engineering intelligent solutions for tomorrow's autonomous world"* 🚀
