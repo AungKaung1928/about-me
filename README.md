@@ -54,10 +54,10 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 ## 🎯 Current Projects
 
-- **Mobile Robot Navigation** - SLAM-based autonomous systems
-- **ROS2 Applications** - Modular robotics software architecture
-- **Computer Vision** - OpenCV integration for robotic perception
-- **Simulation Environments** - Gazebo worlds for robot testing
+- **🧱 Wall Follower Bot** - Autonomous navigation with obstacle avoidance
+- **🎨 Colored Object Picker** - ROS2-based computer vision and manipulation
+- **🤖 Pick and Place System** - MoveIt + RViz integration with launch files
+- **🗺️ Autonomous Navigation** - Advanced pathfinding and obstacle avoidance algorithms
 
 ---
 
