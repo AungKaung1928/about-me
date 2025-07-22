@@ -1,90 +1,89 @@
-# 🤖 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Aung Kaung]!
 
-## 🎯 Robotics Software Engineer
+## 🔧➡️🤖 Mechanical Engineer Transitioning to Robotics Software
 
-🔧 Passionate about building intelligent systems that bridge the gap between software and hardware  
-🎓 [Your Education Background]  
-🌍 Based in [Your Location]  
+Mechanical Design Engineer with a passion for robotics and autonomous systems. Currently transitioning into robotics software development, combining my hardware understanding with growing programming expertise.
 
----
-
-## 🚀 What I Do
-
-- **Autonomous Systems Development** - Creating intelligent robots that can navigate and make decisions
-- **Computer Vision & Machine Learning** - Implementing perception algorithms for robotic applications
-- **Motion Planning & Control** - Developing algorithms for precise robotic movement and manipulation
-- **Human-Robot Interaction** - Building intuitive interfaces between humans and robotic systems
-- **Embedded Systems Programming** - Low-level programming for real-time robotic control
+🎓 **Background:** Mechanical Design Engineering  
+🎯 **Goal:** Robotics Software Engineer  
+🌱 **Currently:** Building software skills while leveraging my mechanical engineering foundation  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Technical Skills
 
-**Languages & Frameworks:**
+**Programming Languages:**
 ```
-🐍 Python  |  ⚡ C/C++  |  ☕ Java  |  🦀 Rust  |  📜 JavaScript
-```
-
-**Robotics & AI:**
-```
-🤖 ROS/ROS2  |  🧠 TensorFlow/PyTorch  |  👁️ OpenCV  |  📊 MATLAB/Simulink
+🐍 Python  |  ⚡ C++
 ```
 
-**Tools & Platforms:**
+**Robotics & Systems:**
 ```
-🐳 Docker  |  ☸️ Kubernetes  |  🔧 Git  |  🖥️ Linux  |  ☁️ AWS/GCP
+🤖 ROS2  |  📍 SLAM  |  🐧 Linux  |  🔧 Git
 ```
 
-**Hardware Integration:**
+**Engineering Foundation:**
 ```
-📡 Arduino/Raspberry Pi  |  🎮 Sensors & Actuators  |  📸 Camera Systems
+⚙️ Mechanical Design  |  📐 CAD/CAM  |  🔬 System Integration
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 What I'm Working On
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=radical)
-
----
-
-## 🏆 Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=radical&row=1&column=6)
+- **Robotics Projects** - Applying ROS2 and SLAM for autonomous navigation
+- **Algorithm Implementation** - Converting mechanical system knowledge into software solutions  
+- **Open Source Contributions** - Building portfolio through practical robotics projects
+- **Continuous Learning** - Expanding software engineering skills for robotics applications
 
 ---
 
-## 🔥 Featured Projects
+## 📊 GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=ProjectName&theme=radical)](https://github.com/YourUsername/ProjectName)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
 
 ---
 
-## 🌐 Let's Connect
+## 🎯 Learning Journey
+
+```python
+class CareerTransition:
+    def __init__(self):
+        self.background = "Mechanical Design Engineering"
+        self.current_skills = ["Python", "C++", "ROS2", "SLAM", "Linux", "Git"]
+        self.target_role = "Robotics Software Engineer"
+        self.learning_next = ["Computer Vision", "Motion Planning", "Deep Learning"]
+    
+    def unique_value(self):
+        return "Hardware intuition + Software implementation = Better robotics solutions"
+```
+
+---
+
+## 🌟 Why This Transition?
+
+My mechanical engineering background gives me a unique perspective in robotics software:
+- **System Thinking** - Understanding how software integrates with physical systems
+- **Problem Solving** - Approaching complex challenges from both hardware and software angles  
+- **Practical Implementation** - Knowing the real-world constraints that software must work within
+
+---
+
+## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
 ## 💭 Current Focus
 
-```python
-class RoboticsEngineer:
-    def __init__(self):
-        self.current_projects = ["Autonomous Navigation", "Computer Vision Pipeline"]
-        self.learning = ["Advanced Deep Learning", "SLAM Algorithms"]
-        self.interests = ["AI Ethics", "Swarm Robotics", "Bio-inspired Design"]
-    
-    def life_motto(self):
-        return "Building the future, one algorithm at a time 🚀"
-```
+**Building projects that showcase:**
+- ROS2 implementation skills
+- SLAM algorithm understanding  
+- Python/C++ proficiency
+- System integration capabilities
 
----
-
-⭐ From [YourUsername](https://github.com/YourUsername) - *"Robots are just computers with an attitude!"*
+*"Bridging mechanical intuition with software innovation"* 🚀
