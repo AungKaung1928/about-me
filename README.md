@@ -1,8 +1,3 @@
-<!--
-  README by Aung Kaung Myat
-  Futuristic, formal, and visually impressive Robotics/AI developer portfolio
--->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=700&color=09DAD3&vCenter=true&width=800&lines=Welcome+to+My+Robotics+Lab.;Hi%2C+I'm+Aung+Kaung+Myat+%F0%9F%96%A5%EF%B8%8F;Engineering+Autonomous+Futures;Blending+Hardware+with+AI+Brains" alt="Header Banner" />
@@ -20,7 +15,7 @@
 ---
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=18&animation=scale" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=18&animation=scale" alt="Trophies"/>
 </div>
 
 ---
@@ -31,11 +26,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=950&color=32C3FF&center=true&vCenter=true&width=510&lines=Mechanical+Engineering+%7C+Robotics+%26+AI+Development;Passionate+about+shaping+Our+Automated+Tomorrow" alt="About-Me-Typing" />
 </div>
 
-- **Robotics/AI developer** with mastery in mechanical design & smart autonomy.
-- **Passionate about shaping our automated tomorrow**—eager to push boundaries in robotics, AI, and engineering.
-- Inventing next-generation autonomous systems for real-world impact.
-- Engineering the synergy of mechanics, AI, and software for truly transformative machines.
-- Obsessive about future tech that is practical, safe, and inspiring.
+- **Robotics/AI developer** with mastery in mechanical design & smart autonomy.  
+- **Passionate about shaping our automated tomorrow**—eager to push boundaries in robotics, AI, and engineering.  
+- Inventing next-generation autonomous systems for real-world impact.  
+- Engineering the synergy of mechanics, AI, and software for truly transformative machines.  
+- Obsessive about future tech that is practical, safe, and inspiring.  
 
 ---
 
@@ -52,8 +47,6 @@
   <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" alt="C++"/>&nbsp;
   <span>🟦 <b>C++: The Titanium Skeleton</b>—speed, power, and robust by design.</span>
 </div>
-
-<!-- Remove percent bars, add "energy core" metaphor for each language used! -->
 
 **Advanced Robotics & Automation Toolkit**
 
@@ -85,7 +78,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=react-dark&area=true&hide_border=true&radius=16&animation=gradient" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=react-dark&area=true&hide_border=true&radius=16" alt="Contribution Graph" />
 </div>
 
 ---
@@ -119,7 +112,7 @@
 </tr>
 <tr>
 <td>🤖 Pick and Place</td>
-<td>Smart arm manipulation with MoveIt & RViz. Seamless planning + real-world actuation.</td>
+<td>Smart arm manipulation with MoveIt &amp; RViz. Seamless planning + real-world actuation.</td>
 <td>ROS2, MoveIt, Python</td>
 <td>✅ Active</td>
 </tr>
@@ -131,7 +124,7 @@
 </tr>
 <tr>
 <td>🧱 Wall Follower</td>
-<td>Vision & SLAM-driven wall following in diverse spaces.</td>
+<td>Vision &amp; SLAM-driven wall following in diverse spaces.</td>
 <td>C++, OpenCV</td>
 <td>🚧 In Progress</td>
 </tr>
@@ -148,7 +141,7 @@
 ## 🌌 Future Vision
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2200&pause=550&color=1976D2&lines=🤖+Fully+Autonomous+Mobile+Robots;🏥+Empathetic+AI+Medical+Robots;🏭+Self-organizing+Smart+Industries" alt="Future Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=550&color=1976D2&lines=🤖+Fully+Autonomous+Mobile+Robots;🏥+Empathetic+AI+Medical+Robots;🏭+Self-organizing+Smart+Industries" alt="Future Animation" />
 </div>
 
 - **Pushing for:** Ubiquitous, safe, and adaptable robotics in every field  
@@ -164,20 +157,19 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/">
-  <img src="https://img.shields.io/badge/LinkedIn-1976D2?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/AungKaung1928">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:aungkaungmyattt1928@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FABA2B?style=for-the-badge&logo=gmail&logoColor=black&animation=pulse"/>
+  <img src="https://img.shields.io/badge/Email-FABA2B?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
 
 ---
 
-<!-- Ultra-cool, futuristic images at the bottom -->
 <div align="center" style="margin-top:40px">
 
 <img src="https://cdn.pixabay.com/photo/2017/08/30/07/52/robot-2699439_960_720.png" width="140" alt="Futuristic robot"/>
@@ -186,11 +178,13 @@
 
 </div>
 
+<div align="center" style="margin-top:15px; font-style: italic; color: #555;">
+Engineering the machines that will transform our tomorrow.<br>
+Welcome to the future.
+</div>
+
+<br>
+
 <div align="center">
-
-<i>Engineering the machines that will transform our tomorrow.<br>
-Welcome to the future.</i>
-<br><br>
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="110" height="110" alt="Floating robot animation" />
-
 </div>
