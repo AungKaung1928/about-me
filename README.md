@@ -11,9 +11,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=nord&no-frame=true&row=1&column=6)
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=AungKaung1928&theme=dark&hide_border=true)
-
 ---
 
 ## 🛠️ Technical Skills
@@ -55,14 +52,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 ---
 
-## 💭 Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 🃏 Programming Humor
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
----
-
 ## 🚀 Focus Areas
 **Mobile Robotics:**
 - 🛰️ Autonomous navigation and SLAM algorithms
@@ -90,11 +79,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ## ⚡ Recent GitHub Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-## 💻 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 ## 🌐 Connect With Me
