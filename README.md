@@ -1,190 +1,163 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3500&pause=700&color=09DAD3&vCenter=true&width=800&lines=Welcome+to+My+Robotics+Lab.;Hi%2C+I'm+Aung+Kaung+Myat+%F0%9F%96%A5%EF%B8%8F;Engineering+Autonomous+Futures;Blending+Hardware+with+AI+Brains" alt="Header Banner" />
 
-</div>
 
----
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=3D9AFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/AungKaung1928?label=Followers&style=social&color=3D9AFF" alt="Followers" />
-<img src="https://img.shields.io/github/stars/AungKaung1928?label=Stars&style=social&color=3D9AFF" alt="Stars" />
-</div>
 
----
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=18&animation=scale" alt="Trophies"/>
-</div>
 
----
 
-<h2 align="center">👾 Who Am I?</h2>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=950&color=32C3FF&center=true&vCenter=true&width=510&lines=Mechanical+Engineering+%7C+Robotics+%26+AI+Development;Passionate+about+shaping+Our+Automated+Tomorrow" alt="About-Me-Typing" />
-</div>
 
-- **Robotics/AI developer** with mastery in mechanical design & smart autonomy.  
-- **Passionate about shaping our automated tomorrow**—eager to push boundaries in robotics, AI, and engineering.  
-- Inventing next-generation autonomous systems for real-world impact.  
-- Engineering the synergy of mechanics, AI, and software for truly transformative machines.  
-- Obsessive about future tech that is practical, safe, and inspiring.  
 
----
 
-## ⚡ Technology Stack
 
-**Programming Language Spirit Animals**
 
-<div align="center" style="padding:8px;">
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python"/>&nbsp;
-  <span>🟩 <b>Python: The Serpent of Automation</b>—swift, adaptable, and always evolving.</span>
-</div>
 
-<div align="center" style="padding:8px;">
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" alt="C++"/>&nbsp;
-  <span>🟦 <b>C++: The Titanium Skeleton</b>—speed, power, and robust by design.</span>
-</div>
 
-**Advanced Robotics & Automation Toolkit**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/ROS2-015C83?style=for-the-badge&logo=ROS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SLAM-34B3F1?style=for-the-badge&logo=robot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MoveIt-1C2D42?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-FABA2B?style=for-the-badge&logo=OpenCV&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RViz-32C3FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gazebo-337AFF?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-</div>
 
-**Core Dev Tools**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-1C2D42?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-337AFF?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FFDF8E?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-FF8182?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+👨‍💻 About Me
 
----
 
-## 📊 Analytics & Evolution
 
-<div align="center" style="position:relative;">
-  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true" alt="Github stats" />
-  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=blue-green&langs_count=8" alt="Top languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=react-dark&area=true&hide_border=true&radius=16" alt="Contribution Graph" />
-</div>
 
----
+I’m Aung Kaung Myat, a robotics and AI enthusiast with a passion for creating intelligent machines that transform the world. My journey blends mechanical engineering with cutting-edge AI to craft autonomous systems that are practical, safe, and inspiring. I’m driven to:
 
-## 🚀 Expertise & Focus
+Design next-gen autonomous robots that navigate and interact with the real world.
+Fuse mechanics, AI, and software to build machines that think and move with purpose.
+Shape a future where technology empowers humanity through innovation and creativity.
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Mobile%20Robotics-32C3FF?style=for-the-badge&logo=robot&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer%20Vision-1976D2?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Autonomous%20Systems-FABA2B?style=for-the-badge&logo=autonomous&logoColor=black" />
+⚙️ Tech Stack
+Core Languages
 
-</div>
+   
+  🐍 Python: My go-to for rapid prototyping and AI-driven automation.
 
-**Specializations**
-- Autonomous navigation (SLAM & dynamic path planning)
-- Real-time perceptual intelligence and reactive control
-- Simulation and human-machine interfacing
-- System integration—making machines genuinely smart
 
----
 
-## 🤖 Project Gallery
+   
+  ⚡ C++: The backbone for high-performance robotics and real-time control.
 
-<table align="center">
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Stack</th>
-<th>Status</th>
-</tr>
-<tr>
-<td>🤖 Pick and Place</td>
-<td>Smart arm manipulation with MoveIt &amp; RViz. Seamless planning + real-world actuation.</td>
-<td>ROS2, MoveIt, Python</td>
-<td>✅ Active</td>
-</tr>
-<tr>
-<td>🗺️ Autonomous Nav</td>
-<td>Advanced real-world navigation, robust obstacle avoidance, SLAM-driven.</td>
-<td>Python, C++, ROS2, Nav2</td>
-<td>✅ Active</td>
-</tr>
-<tr>
-<td>🧱 Wall Follower</td>
-<td>Vision &amp; SLAM-driven wall following in diverse spaces.</td>
-<td>C++, OpenCV</td>
-<td>🚧 In Progress</td>
-</tr>
-<tr>
-<td>🎨 Object Picker</td>
-<td>Computer vision-based object picking and smart manipulation.</td>
-<td>Python, OpenCV, ROS2</td>
-<td>🚧 In Progress</td>
-</tr>
-</table>
 
----
+Robotics & AI Toolkit
 
-## 🌌 Future Vision
+  
+  
+  
+  
+  
+  
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=550&color=1976D2&lines=🤖+Fully+Autonomous+Mobile+Robots;🏥+Empathetic+AI+Medical+Robots;🏭+Self-organizing+Smart+Industries" alt="Future Animation" />
-</div>
 
-- **Pushing for:** Ubiquitous, safe, and adaptable robotics in every field  
-- **Future mission:**  
-  - Lead the advance in safe, self-reliant mobile robots  
-  - Design medical robotic systems to enhance care  
-  - Power up new generations of smart infrastructure
+Dev Essentials
 
----
+  
+  
+  
+  
 
-## 🌐 Connect & Collaborate
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/">
-  <img src="https://img.shields.io/badge/LinkedIn-1976D2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/AungKaung1928">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:aungkaungmyattt1928@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FABA2B?style=for-the-badge&logo=gmail&logoColor=black" />
-</a>
+📈 My Journey in Code
 
-</div>
+  
+  
 
----
 
-<div align="center" style="margin-top:40px">
 
-<img src="https://cdn.pixabay.com/photo/2017/08/30/07/52/robot-2699439_960_720.png" width="140" alt="Futuristic robot"/>
-<img src="https://cdn.pixabay.com/photo/2019/03/31/19/25/artificial-intelligence-4099639_1280.jpg" width="165" alt="AI concept"/>
-<img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/robot-2027195_960_720.png" width="130" alt="Techy robot"/>
+  
 
-</div>
 
-<div align="center" style="margin-top:15px; font-style: italic; color: #555;">
-Engineering the machines that will transform our tomorrow.<br>
-Welcome to the future.
-</div>
 
-<br>
+🌟 What I Do Best
 
-<div align="center">
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="110" height="110" alt="Floating robot animation" />
-</div>
+  
+  
+  
+
+
+My Expertise
+
+Autonomous Navigation: Building robots that map and move through complex environments using SLAM and path planning.
+Computer Vision: Enabling machines to see and understand the world with OpenCV and real-time perception.
+System Integration: Creating seamless synergy between hardware, AI, and software for intelligent robots.
+Simulation & Testing: Using tools like Gazebo and RViz to prototype and perfect robotic systems.
+
+
+🛠️ Projects I’m Proud Of
+
+
+Project
+Description
+Tech Stack
+Status
+
+
+🤖 Smart Pick & Place
+A robotic arm with precise manipulation, powered by MoveIt and RViz for seamless planning.
+ROS2, MoveIt, Python
+✅ Active
+
+
+🗺️ Autonomous Explorer
+SLAM-driven navigation with robust obstacle avoidance for real-world environments.
+Python, C++, ROS2, Nav2
+✅ Active
+
+
+🧱 Wall-Following Bot
+Vision-based robot navigating diverse spaces using SLAM and sensor fusion.
+C++, OpenCV
+🚧 In Progress
+
+
+🎯 Object Picker
+AI-powered object detection and manipulation using computer vision.
+Python, OpenCV, ROS2
+🚧 In Progress
+
+
+
+
+🚀 My Vision for the Future
+
+  
+
+
+I dream of a world where robots are safe, intelligent, and ubiquitous partners in our daily lives. My mission is to:
+
+Pioneer autonomous mobile robots that adapt to any environment.
+Develop empathetic medical robots to revolutionize healthcare.
+Build smart infrastructure for self-organizing, efficient industries.
+
+
+🌍 Let’s Connect!
+
+  
+    
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+  
+  
+  
+
+
+
+Crafting machines that inspire and empower.
+Let’s build the future together!
+
+
+
+  
