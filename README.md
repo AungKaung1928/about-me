@@ -1,8 +1,6 @@
 # 🤖 Aung Kaung Myat
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Robotics+Software+Engineer;Autonomous+Systems+Developer;Building+Intelligent+Machines" alt="Typing SVG" />
-</div>
+**Robotics Software Engineer | Autonomous Systems Developer**
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=58a6ff&style=flat-square" alt="Profile views" />
@@ -23,11 +21,16 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ## 🛠️ Tech Arsenal
 
-```
-Languages    🐍 Python    ⚡ C++    🔧 C
-Robotics     🤖 ROS2      📡 Nav2     🦾 MoveIt    👁️ OpenCV
-Tools        🐧 Linux     🐳 Docker   📊 Gazebo    🔀 Git
-```
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
@@ -50,10 +53,6 @@ Real-time detection and tracking for robotic perception
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 </div>
@@ -74,6 +73,7 @@ Real-time detection and tracking for robotic perception
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungKaung1928)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
 
 </div>
