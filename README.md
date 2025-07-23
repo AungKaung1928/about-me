@@ -47,9 +47,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true)
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/AungKaung1928/AungKaung1928/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🚀 Focus Areas
@@ -88,10 +85,4 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungKaung1928)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
