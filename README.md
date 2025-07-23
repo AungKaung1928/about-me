@@ -170,21 +170,6 @@
 
 </div>
 
----
-
-<div align="center" style="margin-top:40px">
-
-![Futuristic Robot](https://cdn.pixabay.com/photo/2017/08/30/07/52/robot-2699439_960_720.png)  
-![AI Concept](https://cdn.pixabay.com/photo/2019/03/31/19/25/artificial-intelligence-4099639_1280.jpg)  
-![Techy Robot](https://cdn.pixabay.com/photo/2017/01/31/13/14/robot-2027195_960_720.png)  
-
-</div>
-
-<div align="center" style="margin-top:15px; font-style: italic; color: #555;">
-Engineering the machines that will transform our tomorrow.<br>
-Welcome to the future.
-</div>
-
 <br>
 
 <div align="center">
