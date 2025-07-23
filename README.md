@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Aung Kaung Myat!
-## 🤖 Mechanical Engineer & Robotics Enthusiast
+## 🤖 Mechanical Engineer & Robotics/AI Enthusiast
 Passionate about building intelligent autonomous systems and mobile robotics solutions. Combining mechanical design expertise with software development to create next-generation robotic applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square)
