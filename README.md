@@ -76,10 +76,10 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
-| 🤖 **Pick and Place System** | MoveIt + RViz integration with launch files | ROS2, MoveIt, C++ | 🚧 In Progress |
-| 🗺️ **Autonomous Navigation** | Advanced pathfinding and obstacle avoidance | Python, ROS2, SLAM | ✅ Active |
-| 🧱 **Wall Follower Bot** | Autonomous navigation with obstacle avoidance | C++, OpenCV | 🚧 Testing |
-| 🎨 **Colored Object Picker** | ROS2-based computer vision and manipulation | Python, OpenCV, ROS2 | 📋 Planning |
+| 🤖 **Pick and Place System** | MoveIt + RViz integration with launch files | ROS2, MoveIt, Python | 🚧 In Progress |
+| 🗺️ **Autonomous Navigation** | Advanced pathfinding and obstacle avoidance | Python, C++, ROS2, Nav2 | ✅ Active |
+| 🧱 **Wall Follower Bot** | Autonomous navigation with obstacle avoidance | C++, OpenCV | 🚧 In Progress |
+| 🎨 **Colored Object Picker** | ROS2-based computer vision and manipulation | Python, OpenCV, ROS2 | 🚧 In Progress |
 
 
 
