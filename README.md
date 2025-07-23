@@ -17,14 +17,13 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 **Programming Languages:**
 ```
-🐍 Python  |  ⚡ C++  |  🟨 JavaScript  |  🔵 MATLAB
+🐍 Python  |  ⚡ C++  | 
 ```
 
 **Robotics & Systems:**
 ```
 🤖 ROS2  |  📍 SLAM  |  🎯 MoveIt  |  👁️ OpenCV
 📊 RViz  |  🌐 Gazebo  |  🐧 Linux  |  🔧 Git
-🧠 TensorFlow  |  🔥 PyTorch  |  📡 Arduino
 ```
 
 **Engineering Foundation:**
@@ -96,14 +95,3 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
