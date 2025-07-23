@@ -28,6 +28,7 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MoveIt](https://img.shields.io/badge/MoveIt-FF6B6B?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white)
 
 </div>
 
@@ -75,5 +76,3 @@ Real-time detection and tracking for robotic perception
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
 
 </div>
-
----
