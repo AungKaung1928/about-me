@@ -10,21 +10,22 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=nord&no-frame=true&row=1&column=6)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=AungKaung1928&theme=dark&hide_border=true)
+
 ---
 
 ## 🛠️ Technical Skills
-
 **Programming Languages:**
 ```
 🐍 Python  |  ⚡ C++  | 
 ```
-
 **Robotics & Systems:**
 ```
 🤖 ROS2  |  📍 SLAM  |  🎯 MoveIt  |  👁️ OpenCV
 📊 RViz  |  🌐 Gazebo  |  🐧 Linux  |  🔧 Git
 ```
-
 **Engineering Foundation:**
 ```
 ⚙️ Mechanical Design  |  📐 CAD/CAM  |  📊 PLM  |  🔬 Simulation
@@ -41,7 +42,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ---
 
 ## 📊 GitHub Analytics
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=dark&langs_count=8"/>
@@ -50,10 +50,20 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true)
 
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/AungKaung1928/AungKaung1928/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 🃏 Programming Humor
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
 ---
 
 ## 🚀 Focus Areas
-
 **Mobile Robotics:**
 - 🛰️ Autonomous navigation and SLAM algorithms
 - 🤖 Mobile robot simulation and control
@@ -68,7 +78,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ---
 
 ## 🎯 Current Projects
-
 | Project | Description | Tech Stack | Status |
 |---------|-------------|------------|--------|
 | 🤖 **Pick and Place System** | MoveIt + RViz integration with launch files | ROS2, MoveIt, Python | ✅ Active |
@@ -76,12 +85,19 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 | 🧱 **Wall Follower Bot** | Autonomous navigation with wall follwing | C++, OpenCV | 🚧 In Progress |
 | 🎨 **Colored Object Picker** | ROS2-based computer vision and manipulation | Python, OpenCV, ROS2 | 🚧 In Progress |
 
+---
 
+## ⚡ Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## 💻 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
 ## 🌐 Connect With Me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)
@@ -90,3 +106,8 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 </div>
 
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
