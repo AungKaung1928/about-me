@@ -37,11 +37,11 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ### 🗺️ **Autonomous Navigation** 
 SLAM-based mobile robot navigation with real-time obstacle avoidance
-> *ROS2 • Nav2 • Python • C++*
+> *ROS2 • Nav2 • Python • C++ • Gazebo*
 
 ### 🦾 **Smart Manipulation**
 AI-powered pick-and-place with computer vision integration  
-> *MoveIt • Rviz • Python*
+> *MoveIt • Rviz • ROS2 • Python*
 
 ### 👁️ **Object Recognition**
 Real-time detection and tracking for robotic perception
