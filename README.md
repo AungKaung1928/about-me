@@ -82,57 +82,7 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 | 🧱 **Wall Follower Bot** | Autonomous navigation with obstacle avoidance | C++, OpenCV | 🚧 Testing |
 | 🎨 **Colored Object Picker** | ROS2-based computer vision and manipulation | Python, OpenCV, ROS2 | 📋 Planning |
 
----
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💼 Experience Timeline
-
-```
-2024 - Present    🤖 Robotics Engineer
-2023 - 2024       🎓 Advanced Robotics Specialization
-2022 - 2023       ⚙️ Mechanical Design Engineer
-```
-
----
-
-## 🎵 Currently Listening To
-[![Spotify](https://novatorem-kygjvjobp-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
----
-
-## 🏅 Certifications & Achievements
-- 🏆 ROS2 Certification
-- 🥇 Robotics Competition Winner 2023
-- 📜 Advanced SLAM Algorithms Certificate
-- 🎯 Computer Vision Specialization
-
----
-
-## ⚡ Fun Facts
-- 🎮 I love building robots that can play games
-- 🚀 Dream project: Mars rover navigation system  
-- 📚 Currently reading: "Probabilistic Robotics"
-- ☕ Powered by coffee and curiosity
-
----
-
-## 📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🤝 Let's Collaborate!
-I'm always interested in working on:
-- 🤖 Open-source robotics projects
-- 🌟 Innovative automation solutions
-- 🚀 Space technology applications
-- 🎯 AI/ML integration in robotics
 
 ---
 
@@ -142,8 +92,7 @@ I'm always interested in working on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungKaung1928)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
 
 </div>
 
