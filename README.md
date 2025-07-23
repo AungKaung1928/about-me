@@ -12,19 +12,15 @@
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=3D9AFF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/AungKaung1928?label=Followers&style=social&color=3D9AFF" alt="Followers" />
 <img src="https://img.shields.io/github/stars/AungKaung1928?label=Stars&style=social&color=3D9AFF" alt="Stars" />
-
 </div>
 
 ---
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=18&animation=scale" alt="Trophies" />
-
 </div>
 
 ---
@@ -32,25 +28,32 @@
 <h2 align="center">👾 Who Am I?</h2>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=950&color=32C3FF&center=true&vCenter=true&width=500&lines=Mechanical+Engineering+%7C+Robotics+%26+AI+Development;Passionate+about+shaping+Our+Automated+Tomorrow" alt="About-Me-Typing" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=950&color=32C3FF&center=true&vCenter=true&width=510&lines=Mechanical+Engineering+%7C+Robotics+%26+AI+Development;Passionate+about+shaping+Our+Automated+Tomorrow" alt="About-Me-Typing" />
 </div>
 
-- Robotics/AI developer with mastery in **mechanical design & smart autonomy**
-- Inventing **next-gen autonomous systems** for real-world impact
-- Engineering the synergy of **mechanics, AI, & software**
-- Obsessive about future tech: practical, safe, and inspiring
+- **Robotics/AI developer** with mastery in mechanical design & smart autonomy.
+- **Passionate about shaping our automated tomorrow**—eager to push boundaries in robotics, AI, and engineering.
+- Inventing next-generation autonomous systems for real-world impact.
+- Engineering the synergy of mechanics, AI, and software for truly transformative machines.
+- Obsessive about future tech that is practical, safe, and inspiring.
 
 ---
 
 ## ⚡ Technology Stack
 
-**Programming Languages Proficiency**
+**Programming Language Spirit Animals**
 
-| Python | C++ |
-| ------ | --- |
-| 65%    | 35% |
+<div align="center" style="padding:8px;">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="44" alt="Python"/>&nbsp;
+  <span>🟩 <b>Python: The Serpent of Automation</b>—swift, adaptable, and always evolving.</span>
+</div>
+
+<div align="center" style="padding:8px;">
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="44" alt="C++"/>&nbsp;
+  <span>🟦 <b>C++: The Titanium Skeleton</b>—speed, power, and robust by design.</span>
+</div>
+
+<!-- Remove percent bars, add "energy core" metaphor for each language used! -->
 
 **Advanced Robotics & Automation Toolkit**
 
@@ -100,7 +103,7 @@
 **Specializations**
 - Autonomous navigation (SLAM & dynamic path planning)
 - Real-time perceptual intelligence and reactive control
-- Simulation & human-machine interfacing
+- Simulation and human-machine interfacing
 - System integration—making machines genuinely smart
 
 ---
@@ -174,16 +177,13 @@
 
 ---
 
-<div align="center" style="margin-top:35px">
+<!-- Ultra-cool, futuristic images at the bottom -->
+<div align="center" style="margin-top:40px">
 
-<pre>
-        _________
-      /         \
-     /    O O    \
-    |      ^      |
-    |   \/---\/   |
-     \___________/
-</pre>
+<img src="https://cdn.pixabay.com/photo/2017/08/30/07/52/robot-2699439_960_720.png" width="140" alt="Futuristic robot"/>
+<img src="https://cdn.pixabay.com/photo/2019/03/31/19/25/artificial-intelligence-4099639_1280.jpg" width="165" alt="AI concept"/>
+<img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/robot-2027195_960_720.png" width="130" alt="Techy robot"/>
+
 </div>
 
 <div align="center">
@@ -191,6 +191,6 @@
 <i>Engineering the machines that will transform our tomorrow.<br>
 Welcome to the future.</i>
 <br><br>
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="110" height="110" alt="Floating robot animation futuristic" />
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="110" height="110" alt="Floating robot animation" />
 
 </div>
