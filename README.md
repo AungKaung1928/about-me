@@ -73,11 +73,6 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 ---
 
-## ⚡ Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 ## 🌐 Connect With Me
 <div align="center">
 
