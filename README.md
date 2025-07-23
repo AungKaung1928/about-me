@@ -9,7 +9,7 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=matrix&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AungKaung1928&theme=discord&no-frame=true&row=1&column=6)
 
 ---
 
