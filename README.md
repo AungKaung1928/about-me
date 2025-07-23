@@ -4,7 +4,7 @@
 
 ### **🤖 Mechanical Engineer & Robotics/AI Enthusiast**
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo.php?font=Roboto&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+the+future+of+robotics;From+concept+to+reality;Mechanical+meets+digital;Innovating+through+automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+the+future+of+robotics;From+concept+to+reality;Mechanical+meets+digital;Innovating+through+automation" alt="Typing animation" />
 </div>
 
 Passionate about building intelligent autonomous systems and mobile robotics solutions. I combine mechanical design expertise with software development to create next-generation robotic applications.
@@ -29,36 +29,35 @@ My expertise spans programming, robotics frameworks, and essential development t
 
 **Programming Languages:**
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&longCache=true&link=https://www.python.org/&animation=pulse" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&longCache=true&link=https://isocpp.org/&animation=pulse" alt="C++ Badge" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
 **Robotics & Systems:**
 <div align="center">
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white&longCache=true&link=https://docs.ros.org/en/humble/index.html&animation=pulse" alt="ROS2 Badge" />
-  <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=robot&logoColor=white&longCache=true&link=https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping&animation=pulse" alt="SLAM Badge" />
-  <img src="https://img.shields.io/badge/MoveIt-005A9C?style=for-the-badge&longCache=true&link=https://moveit.ros.org/&animation=pulse" alt="MoveIt Badge" />
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&longCache=true&link=https://opencv.org/&animation=pulse" alt="OpenCV Badge" />
-  <img src="https://img.shields.io/badge/RViz-00BFFF?style=for-the-badge&longCache=true&link=http://wiki.ros.org/rviz&animation=pulse" alt="RViz Badge" />
-  <img src="https://img.shields.io/badge/Gazebo-3DDC84?style=for-the-badge&logo=ubuntu&logoColor=white&longCache=true&link=http://gazebosim.org/&animation=pulse" alt="Gazebo Badge" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=white" />
+  <img src="https://img.shields.io/badge/SLAM-FF6F00?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MoveIt-005A9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  <img src="https://img.shields.io/badge/RViz-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gazebo-3DDC84?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </div>
 
 **Development Tools & OS:**
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&longCache=true&link=https://www.linux.org/&animation=pulse" alt="Linux Badge" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&longCache=true&link=https://git-scm.com/&animation=pulse" alt="GIT Badge" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
 
 ### **📊 GitHub Activity**
-
 <div align="center" style="position:relative;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=dark&langs_count=8" />
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true&radius=16&animation=ripple" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true&radius=16" alt="Activity graph" />
 </div>
 
 ---
@@ -74,9 +73,8 @@ My work primarily centers around:
 ---
 
 ### **💡 Future Vision**
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/demo.php?font=Roboto&size=18&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=🤖+Fully+Autonomous+Mobile+Robots;🏥+AI-Powered+Medical+Robots;🏭+Smart+Factories+%26+Construction" alt="Future vision typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=18&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=500&lines=🤖+Fully+Autonomous+Mobile+Robots;🏥+AI-Powered+Medical+Robots;🏭+Smart+Factories+%26+Construction" alt="Future vision typing" />
 </div>
 
 ---
@@ -123,15 +121,14 @@ Here are some of the active projects I'm currently working on:
 ---
 
 ### **🌐 Connect With Me**
-
 <div align="center">
   <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=pulse" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/AungKaung1928">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&animation=pulse" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:aungkaungmyattt1928@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=pulse" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
