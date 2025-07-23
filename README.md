@@ -23,7 +23,7 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 **Engineering Foundation:**
 ```
-⚙️ Mechanical Design  |  📐 CAD/CAM  |  🔬 System Integration
+⚙️ Mechanical Design  |  📐 CAD/CAM  |  📊 PLM  (Product Lifecycle Management)
 ```
 
 ---
