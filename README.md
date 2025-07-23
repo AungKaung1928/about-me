@@ -49,7 +49,7 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 </div>
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true)
+![GitHub Activity Graph]([https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=AungKaung1928&theme=nord&area=true&hide_border=true))
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AungKaung1928&theme=dark&hide_border=true)
