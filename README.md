@@ -54,10 +54,10 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 
 ## 🎯 Current Projects
 
-- **🧱 Wall Follower Bot** - Autonomous navigation with obstacle avoidance
-- **🎨 Colored Object Picker** - ROS2-based computer vision and manipulation
 - **🤖 Pick and Place System** - MoveIt + RViz integration with launch files
 - **🗺️ Autonomous Navigation** - Advanced pathfinding and obstacle avoidance algorithms
+- **🧱 Wall Follower Bot** - Autonomous navigation with obstacle avoidance
+- **🎨 Colored Object Picker** - ROS2-based computer vision and manipulation
 
 ---
 
