@@ -1,4 +1,4 @@
-# 🧑‍🚀 Aung Kaung Myat
+# 🙋‍♂️ Aung Kaung Myat
 
 **Robotics Software Engineer | Autonomous Systems Developer**
 
