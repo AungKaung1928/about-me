@@ -9,17 +9,6 @@
   <em>Passionate about building the future of autonomous systems</em>
 </div>
 
----
-
-## 🚀 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-```mermaid
-graph LR
-    A[Mechanical Engineering] --> B[Robotics]
-    B --> C[Computer Vision]
-    B --> D[Autonomous Systems]
-    C --> E[AI Integration]
-    D --> E
 Combining mechanical design expertise with software development to create next-generation robotic applications.
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=00F7FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile views counter" /> <img src="https://img.shields.io/github/followers/AungKaung1928?label=Followers&style=social&color=00F7FF" /> <img src="https://img.shields.io/github/stars/AungKaung1928?label=Stars&style=social&color=00F7FF" /> </div>
