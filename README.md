@@ -1,8 +1,15 @@
-# 🙋‍♂️ Aung Kaung Myat  
-**Robotics Software Engineer | Autonomous Systems Developer**
+<h1 align="center">
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png" width="40px" style="vertical-align:middle;"/>
+  <span style="color:#18aab8;">Aung Kaung Myat</span>
+</h1>
 
-![Profile views](https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square)  
-![Followers](https://img.shields.io/github/followers/AungKaung1928?style=flat-square&color=blue)
+<p align="center"><b>Robotics Software Engineer | Autonomous Systems Developer</b></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square" alt="Profile views" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/AungKaung1928?style=flat-square&color=blue" alt="Followers" />
+</p>
 
 ---
 
@@ -16,13 +23,15 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ## 📟 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![MoveIt](https://img.shields.io/badge/MoveIt-FF6B6B?style=for-the-badge&logo=ros&logoColor=white) 
-![Gazebo](https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/MoveIt-FF6B6B?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
+  <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
+</p>
 
 ---
 
@@ -44,8 +53,11 @@ Real-time detection and tracking for robotic perception
 
 ## 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Top Languages" />
+</p>
 
 ---
 
@@ -59,6 +71,16 @@ Real-time detection and tracking for robotic perception
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aung-kaung-myat-30943a215/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AungKaung1928)  
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/AungKaung1928" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aungkaungmyattt1928@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
