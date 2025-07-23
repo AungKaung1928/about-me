@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Aung+Kaung+Myat!;Mechanical+Engineer;Robotics+%26+AI+Enthusiast;Building+Intelligent+Systems;Mobile+Robotics+Developer&center=true&size=30&color=58a6ff">
   </a>
 </h1>
-## 🤖 Mechanical Engineer & Robotics/AI Enthusiast
-Passionate about building intelligent autonomous systems and mobile robotics solutions. Combining mechanical design expertise with software development to create next-generation robotic applications.
+# 👋 Hello, I'm Aung Kaung Myat! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## 🤖 Mechanical Engineer & Robotics/AI Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/AungKaung1928?label=Followers&style=social)
