@@ -64,10 +64,9 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 - 🗺️ Motion planning and manipulation
 
 **Future Vision:**
-- 🚀 Space exploration robotics
-- 🐝 Swarm robotics systems
-- 🤝 Human-robot collaboration
-- 🧠 AI-enhanced autonomous systems
+- 🤖 Fully Autonomous Mobile Robots (AMRs) & Self-Driving Systems
+- 🏥 AI-Powered Medical & Care Robots
+- 🏭 Hyper-Automated Smart Factories & Construction
 
 ---
 
