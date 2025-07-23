@@ -1,4 +1,4 @@
-# 🙋‍♂️ Aung Kaung Myat
+# <span style="animation: colorChange 3s infinite alternate; font-weight:bold;">🙋‍♂️ Aung Kaung Myat</span>
 **Robotics Software Engineer | Autonomous Systems Developer**
 
 <div align="center">
@@ -76,3 +76,11 @@ Real-time detection and tracking for robotic perception
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aungkaungmyattt1928@gmail.com)
 
 </div>
+
+<style>
+@keyframes colorChange {
+  0% { color: #007bff; }
+  50% { color: #00d8ff; }
+  100% { color: #007bff; }
+}
+</style>
