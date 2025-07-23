@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## 💬 About Me
 
 **Mechanical Engineer** turned **Robotics Software Developer** 🔧➡️💻
 
@@ -18,7 +18,7 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ---
 
-## 🛠️ Tech Arsenal
+## 📟 Tech Stack
 
 <div align="center">
 
@@ -33,7 +33,7 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ---
 
-## 🎯 Active Projects
+## 📈 Active Projects
 
 ### 🗺️ **Autonomous Navigation** 
 SLAM-based mobile robot navigation with real-time obstacle avoidance
@@ -58,7 +58,7 @@ Real-time detection and tracking for robotic perception
 
 ---
 
-## 🎯 What I Do
+## 🧑‍🚀 What I Do
 
 **🤖 Autonomous Systems** → Making robots think and move independently  
 **🔍 Computer Vision** → Teaching machines to see and understand  
@@ -67,7 +67,7 @@ Real-time detection and tracking for robotic perception
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
