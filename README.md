@@ -1,36 +1,3 @@
-<!-- Add this inside your markdown-compatible content (like README.md, or convert to HTML when needed) -->
-<h1 align="center">
-  <span style="
-    display: inline-block;
-    animation: float 2s ease-in-out infinite, glow 1.2s ease-in-out infinite;
-    color: #58a6ff;
-  ">🙋‍♂️ Aung Kaung Myat</span>
-</h1>
-
-<style>
-@keyframes float {
-  0%, 100% {
-    transform: translateY(0px);
-  }
-  50% {
-    transform: translateY(-4px);
-  }
-}
-
-@keyframes glow {
-  0% {
-    text-shadow: 0 0 5px #58a6ff, 0 0 10px #58a6ff;
-  }
-  50% {
-    text-shadow: 0 0 10px #58a6ff, 0 0 20px #58a6ff;
-  }
-  100% {
-    text-shadow: 0 0 5px #58a6ff, 0 0 10px #58a6ff;
-  }
-}
-</style>
-
-
 # 🙋‍♂️ Aung Kaung Myat
 **Robotics Software Engineer | Autonomous Systems Developer**
 <div align="center">
