@@ -62,8 +62,7 @@ Real-time detection and tracking for robotic perception
 
 **🤖 Autonomous Systems** → Making robots think and move independently  
 **🔍 Computer Vision** → Teaching machines to see and understand  
-**🎮 Motion Planning** → Smooth, collision-free robot movements  
-**⚙️ System Integration** → Bringing hardware and software together  
+**🎮 Motion Planning** → Smooth, collision-free robot movements   
 
 ---
 
