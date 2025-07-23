@@ -78,7 +78,3 @@ Real-time detection and tracking for robotic perception
 </div>
 
 ---
-
-<div align="center">
-<i>💡 "Turning coffee into code, code into robots" ☕🤖</i>
-</div>
