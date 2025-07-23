@@ -16,7 +16,7 @@ Passionate about building intelligent autonomous systems and mobile robotics sol
 ## 🛠️ Technical Skills
 **Programming Languages:**
 ```
-🐍 Python  |  ⚡ C++  | 
+🐍 Python  |  ⚡ C++  
 ```
 **Robotics & Systems:**
 ```
