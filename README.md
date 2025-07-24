@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Developer" width="50" height="50" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat;Robotics+Software+Engineer;AI+Enthusiast&animation=wave" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat&animation=wave" alt="Typing SVG" />
 </h1>
 
 <p align="center">
