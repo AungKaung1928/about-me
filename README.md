@@ -3,14 +3,13 @@
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat&animation=wave" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
   <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=008080&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080&labelColor=black" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080" alt="Followers" />
 </p>
 
 ---
