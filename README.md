@@ -1,21 +1,17 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png" width="40px" style="vertical-align:middle; filter: hue-rotate(200deg) saturate(0.8) brightness(1.1);"/>
-  <span style="color: #18aab8; background: linear-gradient(45deg, #18aab8, #4ecdc4, #18aab8); background-size: 200% 200%; animation: gradient 3s ease-in-out infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Aung Kaung Myat</span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="50" height="50" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat;Robotics+Engineer;AI+Developer" alt="Typing SVG" />
 </h1>
 
-<style>
-@keyframes gradient {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
-<p align="center"><b>Robotics Software Engineer | Autonomous Systems Developer</b></p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square" alt="Profile views" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/AungKaung1928?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Robotics%20Software%20Engineer-2E8B57?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
+  <img src="https://img.shields.io/badge/Autonomous%20Systems%20Developer-228B22?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=2e8b57&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=228B22&labelColor=black" alt="Followers" />
 </p>
 
 ---
@@ -58,7 +54,6 @@ Real-time detection and tracking for robotic perception
 ## 📊 GitHub Stats
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AungKaung1928&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" alt="Top Languages" />
 </p>
 
@@ -76,11 +71,9 @@ Real-time detection and tracking for robotic perception
   <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/AungKaung1928" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="mailto:aungkaungmyattt1928@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
