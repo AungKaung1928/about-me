@@ -1,15 +1,7 @@
 <h1 align="center">
-  <svg width="40px" height="40px" viewBox="0 0 240 240" style="vertical-align:middle;">
-    <!-- Man raising hand emoji in pale blue -->
-    <circle cx="120" cy="70" r="35" fill="#b8d4e6"/>
-    <ellipse cx="120" cy="140" rx="30" ry="50" fill="#b8d4e6"/>
-    <ellipse cx="90" cy="110" rx="12" ry="35" fill="#b8d4e6" transform="rotate(-30 90 110)"/>
-    <ellipse cx="150" cy="120" rx="10" ry="25" fill="#b8d4e6"/>
-    <circle cx="75" cy="85" r="15" fill="#b8d4e6"/>
-    <ellipse cx="120" cy="200" rx="15" ry="30" fill="#b8d4e6"/>
-    <ellipse cx="140" cy="200" rx="15" ry="30" fill="#b8d4e6"/>
-  </svg>
-  <span style="color:#18aab8;">Aung Kaung Myat</span>
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png" width="40px" style="vertical-align:middle;"/>
+  <span style="color:
+#18aab8;">Aung Kaung Myat</span>
 </h1>
 
 <p align="center"><b>Robotics Software Engineer | Autonomous Systems Developer</b></p>
