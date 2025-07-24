@@ -1,17 +1,16 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Developer" width="50" height="50" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat;Robotics+Engineer;AI+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat;Robotics+Software+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics%20Software%20Engineer-2E8B57?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
-  <img src="https://img.shields.io/badge/Autonomous%20Systems%20Developer-228B22?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Robotics_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
+  <img src="https://img.shields.io/badge/AI_Developer-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
 </p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=2e8b57&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=228B22&labelColor=black" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=008080&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080&labelColor=black" alt="Followers" />
 </p>
 
 ---
