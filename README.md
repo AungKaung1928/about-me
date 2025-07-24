@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Robotics_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
-  <img src="https://img.shields.io/badge/AI_Developer-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Robotics_Software_Engineer-008080?style=for-the-badge&logo=robot&logoColor=white" alt="Title" />
+  <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=008080&style=for-the-badge" alt="Profile views" />
