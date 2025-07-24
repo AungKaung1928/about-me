@@ -1,11 +1,17 @@
 <h1 align="center">
-  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png" width="40px" style="vertical-align:middle;"/>
-  <span style="color:
-#18aab8;">Aung Kaung Myat</span>
+  <img src="https://em-content.zobj.net/thumbs/240/apple/354/man-raising-hand_1f64b-200d-2642-fe0f.png" width="40px" style="vertical-align:middle; filter: hue-rotate(200deg) saturate(0.8) brightness(1.1);"/>
+  <span style="color: #18aab8; background: linear-gradient(45deg, #18aab8, #4ecdc4, #18aab8); background-size: 200% 200%; animation: gradient 3s ease-in-out infinite; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Aung Kaung Myat</span>
 </h1>
 
-<p align="center"><b>Robotics Software Engineer | Autonomous Systems Developer</b></p>
+<style>
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
+<p align="center"><b>Robotics Software Engineer | Autonomous Systems Developer</b></p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=blue&style=flat-square" alt="Profile views" />
   &nbsp;&nbsp;&nbsp;
@@ -15,7 +21,6 @@
 ---
 
 ## 💬 About Me
-
 **Mechanical Engineer** turned **Robotics Software Developer** 🔧➡️💻  
 Building intelligent robots that navigate, perceive, and interact with the real world. Specializing in autonomous systems that actually work outside the lab.  
 **Focus:** Mobile Robotics • Computer Vision • SLAM • Motion Planning
@@ -23,7 +28,6 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 ---
 
 ## 📟 Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -37,7 +41,6 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 ---
 
 ## 📈 Active Projects
-
 ### 🗺️ Autonomous Navigation  
 SLAM-based mobile robot navigation with real-time obstacle avoidance  
 > *ROS2 • Nav2 • Python • C++ • Gazebo*
@@ -53,7 +56,6 @@ Real-time detection and tracking for robotic perception
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AungKaung1928&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
@@ -63,7 +65,6 @@ Real-time detection and tracking for robotic perception
 ---
 
 ## 🧑‍🚀 What I Do
-
 **🤖 Autonomous Systems** → Making robots think and move independently  
 **🔍 Computer Vision** → Teaching machines to see and understand  
 **🎮 Motion Planning** → Smooth, collision-free robot movements  
@@ -71,7 +72,6 @@ Real-time detection and tracking for robotic perception
 ---
 
 ## 🤝 Let's Connect
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
