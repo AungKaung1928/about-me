@@ -17,7 +17,7 @@
 ## 💬 About Me
 **Mechanical Engineer** turned **Robotics Software Engineer** 🔧➡️💻  
 Building intelligent robots that navigate, perceive, and interact with the real world. Specializing in autonomous systems that actually work outside the lab.  
-**Focus:** Mobile Robotics • Computer Vision • SLAM • Motion Planning
+**Focus:** Mobile Robotics • Computer Vision • SLAM • Motion Planning • Deep Learning
 
 ---
 
