@@ -41,7 +41,7 @@ SLAM-based mobile robot navigation with real-time obstacle avoidance
 
 ### 🦾 Smart Manipulation  
 AI-powered pick-and-place with computer vision integration  
-> *MoveIt • Rviz • ROS2 • Python*
+> *MoveIt • ROS2 •  Rviz •  Python*
 
 ### 👁️ Object Recognition  
 Real-time detection and tracking for robotic perception  
