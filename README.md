@@ -60,7 +60,7 @@ Real-time detection and tracking for robotic perception
 ## 🧠 What I'm Building
 **🤖 Autonomous Systems** → Making robots think and move independently  
 **🎮 Motion Planning** → Smooth, collision-free robot movements  
-**🔍 Computer Vision** → Teaching machines to see and understand  
+**🧬 Computer Vision** → Teaching machines to see and understand  
 ---
 
 ## 🤝 Let's Connect
