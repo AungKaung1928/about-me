@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Developer" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="50" height="50" />
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=800&color=005F73&center=true&vCenter=true&width=600&height=70&lines=Aung+Kaung+Myat&animation=wave" alt="Typing SVG" />
 </h1>
@@ -10,7 +10,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=008080&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080" alt="Followers" />
-</p> 
+</p>
 
 ---
 
