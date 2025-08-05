@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AungKaung1928&color=008080&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@AungKaung1928?theme=moebooru" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080&label=Followers" alt="Followers" />
 </p>
 
