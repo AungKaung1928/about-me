@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/AI_Enthusiast-008080?style=for-the-badge&logo=microchip&logoColor=white" alt="Role" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12345-008080?style=for-the-badge" alt="Profile views" />
+  <img src="https://yourdomain.com/counter?user=AungKaung1928&style=for-the-badge&color=008080" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AungKaung1928?style=for-the-badge&color=008080&label=Followers" alt="Followers" />
 </p>
 
