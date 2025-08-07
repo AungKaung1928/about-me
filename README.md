@@ -45,7 +45,7 @@ AI-powered pick-and-place with computer vision integration
 
 ### 👁️ Object Recognition  
 Real-time detection and tracking for robotic perception  
-> *OpenCV • Python • ROS2*
+> *OpenCV • ROS2 • Python*
 
 ---
 
