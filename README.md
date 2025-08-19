@@ -63,7 +63,7 @@ Real-time detection and tracking for robotic perception
 **🧬 Computer Vision** → Teaching machines to see and understand  
 ---
 
-## 🤝 Let's Connect
+## 🙌 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/aung-kaung-myat-30943a215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
