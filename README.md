@@ -23,13 +23,27 @@ Building intelligent robots that navigate, perceive, and interact with the real 
 
 ## 📟  Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/MoveIt-FF6B6B?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
-  <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://www.ros.org/" target="_blank">
+    <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://moveit.ros.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MoveIt-FF6B6B?style=for-the-badge&logo=ros&logoColor=white" alt="MoveIt" />
+  </a>
+  <a href="https://gazebosim.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Gazebo-4285F4?style=for-the-badge&logo=robotframework&logoColor=white" alt="Gazebo" />
+  </a>
 </p>
 
 ---
@@ -61,6 +75,7 @@ Real-time detection and tracking for robotic perception
 **🤖 Autonomous Systems** → Making robots think and move independently  
 **🎮 Motion Planning** → Smooth, collision-free robot movements  
 **🧬 Computer Vision** → Teaching machines to see and understand  
+
 ---
 
 ## 🙌 Let's Connect
